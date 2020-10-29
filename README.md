@@ -32,3 +32,5 @@ RCC-Dual-GAN: https://github.com/leibinghe/RCC-Dual-GAN
 
 ## Version Log:
 2020.10.07 (version 0.0): adding the data & code of CCFD + TBP + ODDs + CV datasets.
+
+2020.10.29 (version 0.1): reinitializaton of discriminator for preventing mode collapse problem of HGAN
